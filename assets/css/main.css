@@ -1,8 +1,16 @@
-body{
-  margin-top: 105px;
-}
 
 .nav-item {
   font-size: 1.1rem;
   padding-right: 20px;
+}
+
+.nav-link {
+  color: #041E42 !important;
+}
+
+.jumbotron-fluid {
+  background: url('/assets/img/header.jpg');
+  background-size: cover;
+  min-height: 650px;
+
 }
