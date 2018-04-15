@@ -9,7 +9,7 @@
 }
 
 .jumbotron-fluid {
-  background: url('/assets/img/header.jpg');
+  background: url('http://via.placeholder.com/1500x650');
   background-size: cover;
   min-height: 650px;
 
