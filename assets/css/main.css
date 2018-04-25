@@ -1,4 +1,11 @@
+.navbar {
+  transition: 500ms ease;
+  background: transparent;
+}
 
+.navbar.scrolled {
+  background-color: #FFF;
+}
 .nav-item {
   font-size: 1.1rem;
   padding-right: 20px;
