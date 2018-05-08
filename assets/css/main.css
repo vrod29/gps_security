@@ -23,9 +23,13 @@
 
 
 .jumbotron-fluid {
-  background: url('http://via.placeholder.com/1500x650');
+  background: url('http://via.placeholder.com/1500x800');
   background-size: cover;
   min-height: 650px;
+}
+
+.servicesHr {
+ width: 800px;
 }
 
 .card {
@@ -34,4 +38,13 @@
 
 .about {
   background-color: #041E42;
+}
+
+.aboutHr {
+  background-color: #FFF;
+  width: 800px;
+}
+
+.contactHr {
+ width: 800px;
 }
