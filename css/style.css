@@ -362,7 +362,11 @@ animation-delay: .8s;
   animation-timing-function: ease-in-out;
 }
 .theme-main-header.fixed .logo {
-  margin-top: -8px;
+  margin-top: 0px;
+}
+
+img {
+  margin-top: -32px
 }
 /***
 
